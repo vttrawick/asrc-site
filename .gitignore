@@ -1,3 +1,6 @@
+# Things from emacs
+*.go~
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
